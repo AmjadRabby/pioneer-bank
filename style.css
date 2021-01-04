@@ -1,0 +1,7 @@
+#login-area,
+#transaction-area {
+  margin: 70px;
+}
+.transaction {
+  display: none;
+}
